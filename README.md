@@ -1,5 +1,5 @@
-# volgactf-ru
-A cookbook to provision server running [volgactf.ru](https://volgactf.ru).
+# teaser-2017-volgactf-ru
+A cookbook to provision server running [teaser.2017.volgactf.ru](https://teaser.2017.volgactf.ru).
 
 ## License
 MIT @ [Alexander Pyatkin](https://github.com/aspyatkin)
