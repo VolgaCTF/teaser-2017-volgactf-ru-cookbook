@@ -42,5 +42,8 @@ server {
 
   keepalive_timeout 300;
   charset utf-8;
-  root <%= @doc_root %>;
+
+  location / {
+    return 301 https://<%= @redirect_fqdn %>;
+  }
 }
